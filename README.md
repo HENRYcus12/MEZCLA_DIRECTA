@@ -1,3 +1,3 @@
 # MEZCLA_DIRECTA
 ### PROYECTO DE MÉTODOS DE ORDENAMIENTO
-
+!(C:\Users\ACER\Pictures\Screenshots)
