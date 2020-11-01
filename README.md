@@ -1,3 +1,3 @@
 # MEZCLA_DIRECTA
 ### PROYECTO DE MÉTODOS DE ORDENAMIENTO
-<img src="dinosaur.jpg">
+
